@@ -1,6 +1,9 @@
-<h1 align="center">Hi, I am İrfan KARAMAN</h1>
+<h1 align="center">İrfan KARAMAN</h1>
 
-<h3 align="center">Experienced and passionate IT Solution Specialist</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+and+passionate+IT+Solution+Specialist;Strong+technical+knowledge+and+ability+to+understand+complex+IT+systems;specializing+in+consulting,+digital+solutions+development,+and+IT+project+management+for+various+products+and+software+solutions)](https://git.io/typing-svg)
+
+<!-- <h3 align="center">Experienced and passionate IT Solution Specialist</h3> -->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
 </br>
 
