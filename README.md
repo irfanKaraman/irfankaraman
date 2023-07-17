@@ -5,11 +5,13 @@
 </br>
 
 
-- 🔭 I’m currently running pre-sales, post-sales and training operation **IT Operation Management & Incident Management Softwares (ZOHO - ManageEngine)**
+- 🔭 I’m currently work for [Vitel A.S.](https://vite.com.tr)
 
-- 🌱 I’m currently learning **Azure DevOps, API, PowerBI, Kubernetes, Docker**
+- 🌱 I’m currently learning **Azure DevOps, API, PowerBI**
 
-- 📝 My articles on [medium.com/@irfankaraman](https://medium.com/@irfankaraman/)
+- 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine IT Operation Management & Incident Management Softwares**
+
+- 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
 
 </br>
 
