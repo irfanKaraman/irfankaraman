@@ -1,7 +1,6 @@
 <h1 align="center">İrfan KARAMAN
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Experienced+IT+Solution+Specialist;Digital+Solutions+Development;IT+Project+Management;Strong+Technical+Knowledge)](https://git.io/typing-svg)
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Experienced+IT+Solution+Specialist;Digital+Solutions+Development;IT+Project+Management;Strong+Technical+Knowledge)](https://git.io/typing-svg)</h1>
 
 <!-- <h3 align="center">Experienced and passionate IT Solution Specialist</h3> -->
 
