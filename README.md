@@ -1,6 +1,6 @@
 <h1 align="center">İrfan KARAMAN</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+and+passionate+IT+Solution+Specialist;Strong+technical+knowledge+and+ability+to+understand+complex+IT+systems;specializing+in+consulting,+digital+solutions+development,+and+IT+project+management+for+various+products+and+software+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+IT+Solution+Specialist;Strong+Technical+Knowledge;Digital+Solutions+Development;IT+Project+Management)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">Experienced and passionate IT Solution Specialist</h3> -->
 
