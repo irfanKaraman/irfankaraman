@@ -77,5 +77,6 @@
 
 </br>
 
+http://api.openweathermap.org/geo/1.0/zip?zip=34000,tr&appid=975b80a4e9c6304f17d633771e799450
 
 
