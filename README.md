@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Experienced+IT+Solution+Specialist;Strong+Technical+Knowledge;Digital+Solutions+Development;IT+Project+Management)](https://git.io/typing-svg)
 
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&center=true&width=435&lines=Experienced+IT+Solution+Specialist;Strong+Technical+Knowledge;Digital+Solutions+Development;IT+Project+Management" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Experienced+IT+Solution+Specialist;Digital+Solutions+Development;IT+Project+Management;Strong+Technical+Knowledge)](https://git.io/typing-svg)
 
 <!-- <h3 align="center">Experienced and passionate IT Solution Specialist</h3> -->
 
