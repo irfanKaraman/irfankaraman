@@ -5,11 +5,11 @@
 </br>
 
 
-- 🔭 I’m currently work for [Vitel A.S.](https://vite.com.tr)
+- 🔭 I’m currently work for [Vitel A.S.](https://vitel.com.tr)
+
+- 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
 
 - 🌱 I’m currently learning **Azure DevOps, API, PowerBI**
-
-- 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine IT Operation Management & Incident Management Softwares**
 
 - 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
 
