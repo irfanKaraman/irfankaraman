@@ -4,8 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
 </br>
 
-http://api.openweathermap.org/geo/1.0/direct?q=Istanbul&limit={limit}&appid={1fe68e52f043e3abb32c1342d1f36018}
-</br>
+
 
 - 🔭 I’m currently work for [Vitel A.S.](https://www.vitel.com.tr/en/)
 
