@@ -51,10 +51,14 @@
 
 </br>
 
-### Blogs posts
+### Blogs posts (dynamic workflow content)
 <!-- BLOG-POST-LIST:START -->
-- [ManageEngine APPLICATIONS MANAGER](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
+</br>
+
+### Weather info (dynamic api content)
+<!-- WEATHER-INFO-LIST:START -->
+<!-- WEATHER-INFO-LIST:END -->
 </br>
 
 <h3 align="left">Connect with me:</h3>
@@ -73,6 +77,6 @@
 
 </br>
 
-http://api.openweathermap.org/geo/1.0/zip?zip=34000,tr&appid=975b80a4e9c6304f17d633771e799450
+
 
 
