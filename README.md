@@ -1,12 +1,15 @@
 <h1 align="center">Hi, I am İrfan KARAMAN</h1>
 
 <h3 align="center">Experienced and passionate IT Solution Specialist</h3>
+</br>
 
 
-
-- 🔭 I’m currently work as a solution specialist for **IT Operation Management & Incident Management Softwares (ZOHO - ManageEngine)**
+- 🔭 I’m currently running pre-sales, post-sales and training operation **IT Operation Management & Incident Management Softwares (ZOHO - ManageEngine)**
 
 - 🌱 I’m currently learning **Azure DevOps, API, PowerBI**
+
+- 📝 My articles on [https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1)
+
 </br>
 
 ### Blogs posts
