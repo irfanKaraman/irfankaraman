@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Azure DevOps, API, PowerBI**
 
-- 📝 My articles on [https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1)
+- 📝 My articles on [medium.com/@irfankaraman](https://medium.com/@irfankaraman/)
 
 </br>
 
