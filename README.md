@@ -4,7 +4,10 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
 </br>
 
-
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_tr.md"><img src="images/tr-flag.png" height="13"> Turkish</a></td></tr>
+</table>
 
 - 🔭 I’m currently work for [Vitel A.S.](https://www.vitel.com.tr/en/)
 
