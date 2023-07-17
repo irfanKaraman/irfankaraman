@@ -56,10 +56,6 @@
 <!-- BLOG-POST-LIST:END -->
 </br>
 
-### Weather info (dynamic api content)
-<!-- WEATHER-INFO-LIST:START -->
-<!-- WEATHER-INFO-LIST:END -->
-</br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
