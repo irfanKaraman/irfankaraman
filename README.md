@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently running pre-sales, post-sales and training operation **IT Operation Management & Incident Management Softwares (ZOHO - ManageEngine)**
 
-- 🌱 I’m currently learning **Azure DevOps, API, PowerBI**
+- 🌱 I’m currently learning **Azure DevOps, API, PowerBI, Kubernetes, Docker**
 
 - 📝 My articles on [medium.com/@irfankaraman](https://medium.com/@irfankaraman/)
 
@@ -19,8 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/irfan-karaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-karaman" height="30" width="40" /></a>
-<a href="https://medium.com/@irfankaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfankaraman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/irfan-karaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-karaman" height="30" width="40" target=”_blank” /></a>
+<a href="https://medium.com/@irfankaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfankaraman" height="30" width="40" target=”_blank” /></a>
 </p>
 </br>
 
