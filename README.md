@@ -17,7 +17,7 @@
 
 - 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
 
-- 🌱 I’m currently learning **Azure DevOps, API, PowerBI, Kubernetes, Docker**
+<!--- 🌱 I’m currently learning **Azure DevOps, API, PowerBI, Kubernetes, Docker**-->
 
 - 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
 
