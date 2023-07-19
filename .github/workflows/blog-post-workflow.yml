@@ -3,7 +3,7 @@ on:
    workflow_dispatch:
    schedule:
     - cron: '0 * * * *' # Runs every hour, on the hour
-   permissions: read-all|write-all
+   #permissions: read-all|write-all
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
