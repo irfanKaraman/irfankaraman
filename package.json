@@ -24,8 +24,8 @@
   },
   "homepage": "https://github.com/irfankaraman/irfankaraman#readme",
   "dependencies": {
-    "dotenv": "^8.2.0",
-    "mustache": "^4.0.1",
-    "node-fetch": "^2.6.1"
+    "dotenv": "^8.6.0",
+    "mustache": "^4.2.0",
+    "node-fetch": "^2.6.12"
   }
 }
