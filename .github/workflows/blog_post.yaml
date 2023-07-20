@@ -1,0 +1,17 @@
+name: UPDATE_Blog
+
+on: 
+    workflow_run:
+        workflows: ["UPDATE_Weather"]
+        types:
+          - completed
+jobs: 
+    update-readme-with-blog: 
+        runs-on: ubuntu-latest
+
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "4"
+                feed_list: "https://medium.com/feed/@irfankaraman"
