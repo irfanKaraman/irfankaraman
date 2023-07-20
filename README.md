@@ -53,7 +53,7 @@
 
 ### Blogs posts (dynamic workflow content)
 <!-- BLOG-POST-LIST:START -->
-- [ManageEngine APPLICATIONS MANAGER](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
+- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
