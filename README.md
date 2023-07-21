@@ -76,7 +76,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
@@ -86,20 +85,25 @@
 <a href="https://linkedin.com/in/irfan-karaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-karaman" height="30" width="40"  /></a>
 <a href="https://medium.com/@irfankaraman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfankaraman" height="30" width="40" /></a>
 </p>
+<!--
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rfnkrmn&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+-->
+</br>
+
 
 ------------
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Thursday, July 20, 7:02 PM GMT+3
+Last refresh: Friday, July 21, 11:02 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 31°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 28°C, <i>clear sky</i></b>
 </br>
-Sun rises at <b>05:48</b> and sets at <b>20:32</b>.
+Sun rises at <b>05:49</b> and sets at <b>20:31</b>.
 </br>
 powered by <a href="https://openweathermap.org/">OpenWeather API</a>
 </br>
