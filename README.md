@@ -76,7 +76,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
@@ -96,13 +95,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Friday, July 21, 6:10 PM GMT+3
+Last refresh: Friday, July 21, 9:13 PM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 31°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 27°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>05:49</b> and sets at <b>20:31</b>.
 </br>
