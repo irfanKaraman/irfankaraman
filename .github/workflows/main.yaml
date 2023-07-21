@@ -2,11 +2,11 @@ name: UPDATE_Weather
 
 on:
   #workflow_dispatch:
-    push:
-      branches:
-        - master
-    schedule:
-      - cron: '0 */3 * * *'
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */3 * * *'
 jobs:
   update-readme-with-weather:
     runs-on: ubuntu-latest
