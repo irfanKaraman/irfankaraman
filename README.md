@@ -1,7 +1,10 @@
 <h1 align="center">İrfan KARAMAN
+
 <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Experienced+IT+Solution+Specialist;Digital+Solutions+Development;IT+Project+Management;Strong+Technical+Knowledge" alt="Typing SVG" /></a>
 </h1>
+
 <!-- <h3 align="center">Experienced and passionate IT Solution Specialist</h3> -->
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
 </br>
 
@@ -19,12 +22,13 @@
 <!--- 🌱 I’m currently learning **Azure DevOps, API, PowerBI, Kubernetes, Docker**-->
 
 - 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
+
 </br>
 
 <details>
   <summary><b>:computer: &nbsp;Tech knowledge</b></summary>
   <br/>
- 
+
 ![ISO27001](https://img.shields.io/badge/ISO27001-2496ED.svg?&style=flat&logo=iso27001&logoColor=white)&nbsp;
 ![MCITP](https://img.shields.io/badge/MCITP-E34F26.svg?&style=flat&logo=mcitp&logoColor=white)&nbsp;
 ![CCNA](https://img.shields.io/badge/CCNA-%23007ACC.svg?&style=flat&logo=ccna&logoColor=white)&nbsp;
@@ -37,6 +41,9 @@
 ![POSTMAN](https://img.shields.io/badge/POSTMAN-FCC624?style=flat&logo=postman&logoColor=black)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat&logo=confluence&logoColor=white)
+
+
+
 </details>
 
 
@@ -55,23 +62,23 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-007ACC.svg?&style=flat&logo=prometheus)&nbsp;\
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat&logo=linux&logoColor=black)
+
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![MUSTACHE](https://img.shields.io/badge/MUSTACHE-E34F26.svg?&style=flat&logo=mustache&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 -->
-</details>
-</br>
 
-![Spotify-Integration](https://spotify-recently-played-readme.vercel.app/api?user=rfnkrmn&count=1)
+</details>
+
+
 </br>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to hide API KEYS in GitHub Actions](https://medium.com/@irfankaraman/how-to-hide-api-keys-in-github-actions-bc95bc4b4188?source=rss-b27fdb1a7b71------2)
-- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -83,31 +90,24 @@
 -->
 </br>
 
+
 ------------
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-
-Last refresh: Saturday, July 22, 12:09 PM GMT+3
+Last refresh: Saturday, July 22, 3:15 PM GMT+3
 <br />
-
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-
-
-Today, Istanbul's weather is: <b> 28°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 30°C, <i>clear sky</i></b>
 </br>
-
 Sun rises at <b>05:50</b> and sets at <b>20:30</b>.
 </br>
-
 powered by <a href="https://openweathermap.org/">OpenWeather API</a>
 </br>
 </br>
-
-
 <img src="https://github.com/irfankaraman/irfankaraman/workflows/UPDATE_Weather/badge.svg" /> 
 <img src="https://github.com/irfankaraman/irfankaraman/workflows/UPDATE_Blog/badge.svg" /> 
 </p>
