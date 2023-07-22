@@ -83,7 +83,7 @@
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
 
-Last refresh: {{refresh_date}}
+Last refresh: Saturday, July 22, 3:19 PM GMT+3
 <br />
 
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
@@ -92,10 +92,10 @@ Last refresh: {{refresh_date}}
 <br />
 
 
-Today, Istanbul's weather is: <b> {{city_temperature}}°C, <i>{{city_weather}}</i></b>
+Today, Istanbul's weather is: <b> 30°C, <i>clear sky</i></b>
 </br>
 
-Sun rises at <b>{{sun_rise}}</b> and sets at <b>{{sun_set}}</b>.
+Sun rises at <b>05:50</b> and sets at <b>20:30</b>.
 </br>
 
 powered by <a href="https://openweathermap.org/">OpenWeather API</a>
