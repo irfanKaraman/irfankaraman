@@ -62,8 +62,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to hide API KEYS in GitHub Actions](https://medium.com/@irfankaraman/how-to-hide-api-keys-in-github-actions-bc95bc4b4188?source=rss-b27fdb1a7b71------2)
-- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
