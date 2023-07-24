@@ -63,8 +63,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to hide API KEYS in GitHub Actions](https://medium.com/@irfankaraman/how-to-hide-api-keys-in-github-actions-bc95bc4b4188?source=rss-b27fdb1a7b71------2)
-- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
@@ -82,15 +80,15 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Monday, July 24, 9:14 PM GMT+3
+Last refresh: Tuesday, July 25, 12:10 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 26°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 24°C, <i>clear sky</i></b>
 </br>
-Sun rises at <b>05:51</b> and sets at <b>20:29</b>.
+Sun rises at <b>05:52</b> and sets at <b>20:28</b>.
 </br>
 powered by <a href="https://openweathermap.org/">OpenWeather API</a>
 </br>
