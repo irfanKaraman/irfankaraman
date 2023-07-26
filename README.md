@@ -63,10 +63,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Create a Personal Access Token &lpar;PAT&rpar; for your GitHub account](https://medium.com/@irfankaraman/how-to-create-a-personal-access-token-pat-for-your-github-account-d686a7890a33?source=rss-b27fdb1a7b71------2)
-- [Automatic GITHUB_TOKEN Authentication in GitHub Actions](https://medium.com/@irfankaraman/automatic-github-token-authentication-in-github-actions-321b72e7b11c?source=rss-b27fdb1a7b71------2)
-- [How to hide API KEYS in GitHub Actions](https://medium.com/@irfankaraman/how-to-hide-api-keys-in-github-actions-bc95bc4b4188?source=rss-b27fdb1a7b71------2)
-- [ManageEngine Applications Manager ile Hybrid Cloud İzleme ve Raporlama](https://medium.com/@irfankaraman/manageengine-applications-manager-2af56c4a38b1?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
@@ -84,13 +80,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Wednesday, July 26, 12:08 AM GMT+3
+Last refresh: Wednesday, July 26, 3:58 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 27°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 25°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>05:53</b> and sets at <b>20:27</b>.
 </br>
