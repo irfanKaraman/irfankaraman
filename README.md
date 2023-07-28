@@ -63,6 +63,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Manually Trigger a GitHub Action with “workflow_dispatch”](https://medium.com/@irfankaraman/manually-trigger-a-github-action-with-workflow-dispatch-124708e26afe?source=rss-b27fdb1a7b71------2)
+- [How to Create a Personal Access Token &lpar;PAT&rpar; for your GitHub account](https://medium.com/@irfankaraman/how-to-create-a-personal-access-token-pat-for-your-github-account-d686a7890a33?source=rss-b27fdb1a7b71------2)
+- [Automatic GITHUB_TOKEN Authentication in GitHub Actions](https://medium.com/@irfankaraman/automatic-github-token-authentication-in-github-actions-321b72e7b11c?source=rss-b27fdb1a7b71------2)
+- [How to hide API KEYS in GitHub Actions](https://medium.com/@irfankaraman/how-to-hide-api-keys-in-github-actions-bc95bc4b4188?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
