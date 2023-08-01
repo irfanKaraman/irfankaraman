@@ -16,9 +16,14 @@
 
 - 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
 
-<!--- 🌱 I’m currently learning **Azure DevOps, API, PowerBI, Kubernetes, Docker**-->
-
 - 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
+
+- 🚴 I am actively involved in sports
+
+<!-- 
+- 📚 Always learning! Currently learning **DevOps & Automation with AWS & Azure**
+- :mailbox: Kindly reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-irfan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-karaman/)
+-->
 </br>
 
 <details>
@@ -63,10 +68,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Manually Trigger a GitHub Action with “workflow_dispatch”](https://medium.com/@irfankaraman/manually-trigger-a-github-action-with-workflow-dispatch-124708e26afe?source=rss-b27fdb1a7b71------2)
-- [How to Create a Personal Access Token &lpar;PAT&rpar; for your GitHub account](https://medium.com/@irfankaraman/how-to-create-a-personal-access-token-pat-for-your-github-account-d686a7890a33?source=rss-b27fdb1a7b71------2)
-- [Automatic GITHUB_TOKEN Authentication in GitHub Actions](https://medium.com/@irfankaraman/automatic-github-token-authentication-in-github-actions-321b72e7b11c?source=rss-b27fdb1a7b71------2)
-- [How to hide API KEYS in GitHub Actions](https://medium.com/@irfankaraman/how-to-hide-api-keys-in-github-actions-bc95bc4b4188?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 </br>
 
@@ -84,13 +85,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Tuesday, August 1, 6:10 PM GMT+3
+Last refresh: Tuesday, August 1, 8:55 PM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 28°C, <i>few clouds</i></b>
+Today, Istanbul's weather is: <b> 26°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>05:59</b> and sets at <b>20:21</b>.
 </br>
