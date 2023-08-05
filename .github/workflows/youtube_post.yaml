@@ -1,6 +1,9 @@
 name: UPDATE_YouTube
 on:
-  workflow_dispatch:
+    workflow_run:
+        workflows: ["UPDATE_Blog"]
+        types:
+          - completed
 
 jobs:
   update-readme-with-youtube:
