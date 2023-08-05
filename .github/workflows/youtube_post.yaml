@@ -1,4 +1,4 @@
-name: UPDATE_YOUTUBE
+name: UPDATE_YouTube
 on:
   workflow_dispatch:
 
