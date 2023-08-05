@@ -66,13 +66,19 @@
 </details>
 </br>
 
-### Blogs posts
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/@irfan.karaman)
+
+### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
-- [How to Trigger a Workflow from Another Workflow in GitHub Actions](https://medium.com/@irfankaraman/how-to-trigger-a-workflow-from-another-workflow-in-github-actions-1d2ebc1343ff?source=rss-b27fdb1a7b71------2)
-- [Manually Trigger a GitHub Action with “workflow_dispatch”](https://medium.com/@irfankaraman/manually-trigger-a-github-action-with-workflow-dispatch-124708e26afe?source=rss-b27fdb1a7b71------2)
-- [How to Create a Personal Access Token &lpar;PAT&rpar; for your GitHub account](https://medium.com/@irfankaraman/how-to-create-a-personal-access-token-pat-for-your-github-account-d686a7890a33?source=rss-b27fdb1a7b71------2)
-- [Automatic GITHUB_TOKEN Authentication in GitHub Actions](https://medium.com/@irfankaraman/automatic-github-token-authentication-in-github-actions-321b72e7b11c?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@irfankaraman)
 </br>
 
 ![Spotify-Integration](https://spotify-recently-played-readme.vercel.app/api?user=rfnkrmn&count=1)
@@ -90,7 +96,7 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Saturday, August 5, 4:30 PM GMT+3
+Last refresh: Saturday, August 5, 4:32 PM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
