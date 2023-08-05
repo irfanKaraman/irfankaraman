@@ -1,4 +1,4 @@
-name: Latest YouTube Videos
+name: UPDATE_YOUTUBE
 on:
   workflow_dispatch:
 
