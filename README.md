@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [02 - Tech Talks | ManageEngine Series  - Application Control Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=uDX_VtFi01M)
+- [01 - Tech Talks | ManageEngine Series  - CloudDNS İnceleme &amp; Demo](https://www.youtube.com/watch?v=LtG89tnMaJE)
+- [2023 March | Runtalya Half-Marathon Run - w/Wifey](https://www.youtube.com/watch?v=0d7DjFhPvTU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
