@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [02 - Tech Talks | ManageEngine Series  - Application Control Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=uDX_VtFi01M)
-- [01 - Tech Talks | ManageEngine Series  - CloudDNS İnceleme &amp; Demo](https://www.youtube.com/watch?v=LtG89tnMaJE)
-- [2023 March | Runtalya Half-Marathon Run - w/Wifey](https://www.youtube.com/watch?v=0d7DjFhPvTU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -79,10 +76,6 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Trigger a Workflow from Another Workflow in GitHub Actions](https://medium.com/@irfankaraman/how-to-trigger-a-workflow-from-another-workflow-in-github-actions-1d2ebc1343ff?source=rss-b27fdb1a7b71------2)
-- [Manually Trigger a GitHub Action with “workflow_dispatch”](https://medium.com/@irfankaraman/manually-trigger-a-github-action-with-workflow-dispatch-124708e26afe?source=rss-b27fdb1a7b71------2)
-- [How to Create a Personal Access Token &lpar;PAT&rpar; for your GitHub account](https://medium.com/@irfankaraman/how-to-create-a-personal-access-token-pat-for-your-github-account-d686a7890a33?source=rss-b27fdb1a7b71------2)
-- [Automatic GITHUB_TOKEN Authentication in GitHub Actions](https://medium.com/@irfankaraman/automatic-github-token-authentication-in-github-actions-321b72e7b11c?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
@@ -104,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Sunday, August 6, 6:09 AM GMT+3
+Last refresh: Sunday, August 6, 9:11 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 23°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 26°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>06:04</b> and sets at <b>20:15</b>.
 </br>
