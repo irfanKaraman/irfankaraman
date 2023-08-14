@@ -16,9 +16,9 @@
 
 - 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
 
-- 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
+- 📝 My articles on [medium](https://medium.com/@irfankaraman/)
 
-- 🚴 I am actively involved in sports
+- 🚴 I am actively involved in sports [Flickr Portfolio](https://www.flickr.com/photos/irfankaraman/albums/)
 
 <!-- 
 - 📚 Always learning! Currently learning **DevOps & Automation with AWS & Azure**
