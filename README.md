@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [01 - Tech Talks | DevOps Series - WSL2 ile Linux &amp; Git &amp; VScode &amp; NodeJS Kurulumu ve Konfigürasyonu](https://www.youtube.com/watch?v=XaXZMT-X4Tw)
+- [03 - Tech Talks | ManageEngine Series  - Browser Security Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=j-E6NNxZnIU)
+- [02 - Tech Talks | ManageEngine Series  - Application Control Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=uDX_VtFi01M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
