@@ -16,9 +16,9 @@
 
 - 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
 
-- 📝 My articles on [medium.com/@irfankaraman/](https://medium.com/@irfankaraman/)
+- 📝 My articles on [medium](https://medium.com/@irfankaraman/)
 
-- 🚴 I am actively involved in sports
+- 🚴 I am actively involved in sports. Check out my [portfolio](https://www.flickr.com/photos/irfankaraman/albums)
 
 <!-- 
 - 📚 Always learning! Currently learning **DevOps & Automation with AWS & Azure**
@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [01 - Tech Talks | DevOps Series - WSL2 ile Linux &amp; Git &amp; VScode &amp; NodeJS Kurulumu ve Konfigürasyonu](https://www.youtube.com/watch?v=XaXZMT-X4Tw)
-- [03 - Tech Talks | ManageEngine Series  - Browser Security Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=j-E6NNxZnIU)
-- [02 - Tech Talks | ManageEngine Series  - Application Control Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=uDX_VtFi01M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -79,10 +76,6 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Workflow Status Badge](https://medium.com/@irfankaraman/how-to-add-workflow-status-badge-94f4d444bb33?source=rss-b27fdb1a7b71------2)
-- [What is the Scrum Framework?](https://medium.com/@irfankaraman/what-is-the-scrum-framework-dde87d4c1e7f?source=rss-b27fdb1a7b71------2)
-- [How to Trigger a Workflow from Another Workflow in GitHub Actions](https://medium.com/@irfankaraman/how-to-trigger-a-workflow-from-another-workflow-in-github-actions-1d2ebc1343ff?source=rss-b27fdb1a7b71------2)
-- [Manually Trigger a GitHub Action with “workflow_dispatch”](https://medium.com/@irfankaraman/manually-trigger-a-github-action-with-workflow-dispatch-124708e26afe?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
@@ -104,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Friday, August 18, 9:12 AM GMT+3
+Last refresh: Friday, August 18, 10:54 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 27°C, <i>scattered clouds</i></b>
+Today, Istanbul's weather is: <b> 28°C, <i>scattered clouds</i></b>
 </br>
 Sun rises at <b>06:16</b> and sets at <b>20:00</b>.
 </br>
