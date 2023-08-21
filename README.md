@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [02 - Tech Talks | DevOps Series - Linux Bash/Shell Kişiselleştirme &lpar;ZSH, Oh-my-Zsh, Starship, Fzf&rpar;](https://www.youtube.com/watch?v=cRUQNe1IIVs)
+- [01 - Tech Talks | DevOps Series - WSL2 ile Linux &amp; Git &amp; VScode &amp; NodeJS Kurulumu ve Konfigürasyonu](https://www.youtube.com/watch?v=XaXZMT-X4Tw)
+- [03 - Tech Talks | ManageEngine Series  - Browser Security Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=j-E6NNxZnIU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
