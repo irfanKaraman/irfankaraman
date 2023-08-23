@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [02 - Tech Talks | DevOps Series - Linux Bash/Shell Kişiselleştirme &lpar;ZSH, Oh-my-Zsh, Starship, Fzf&rpar;](https://www.youtube.com/watch?v=cRUQNe1IIVs)
-- [01 - Tech Talks | DevOps Series - WSL2 ile Linux &amp; Git &amp; VScode &amp; NodeJS Kurulumu ve Konfigürasyonu](https://www.youtube.com/watch?v=XaXZMT-X4Tw)
-- [03 - Tech Talks | ManageEngine Series  - Browser Security Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=j-E6NNxZnIU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -79,10 +76,6 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Workflow Status Badge](https://medium.com/@irfankaraman/how-to-add-workflow-status-badge-94f4d444bb33?source=rss-b27fdb1a7b71------2)
-- [What is the Scrum Framework?](https://medium.com/@irfankaraman/what-is-the-scrum-framework-dde87d4c1e7f?source=rss-b27fdb1a7b71------2)
-- [How to Trigger a Workflow from Another Workflow in GitHub Actions](https://medium.com/@irfankaraman/how-to-trigger-a-workflow-from-another-workflow-in-github-actions-1d2ebc1343ff?source=rss-b27fdb1a7b71------2)
-- [Manually Trigger a GitHub Action with “workflow_dispatch”](https://medium.com/@irfankaraman/manually-trigger-a-github-action-with-workflow-dispatch-124708e26afe?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
@@ -104,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Wednesday, August 23, 12:08 AM GMT+3
+Last refresh: Wednesday, August 23, 3:43 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 26°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 25°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>06:21</b> and sets at <b>19:52</b>.
 </br>
