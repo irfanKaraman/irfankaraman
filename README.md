@@ -76,6 +76,10 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uygulama Bilinçli Ağ Performans Yönetimi](https://medium.com/@irfankaraman/uygulama-bilin%C3%A7li-a%C4%9F-performans-y%C3%B6netimi-e0f4b530014d?source=rss-b27fdb1a7b71------2)
+- [How to Add Workflow Status Badge](https://medium.com/@irfankaraman/how-to-add-workflow-status-badge-94f4d444bb33?source=rss-b27fdb1a7b71------2)
+- [What is the Scrum Framework?](https://medium.com/@irfankaraman/what-is-the-scrum-framework-dde87d4c1e7f?source=rss-b27fdb1a7b71------2)
+- [How to Trigger a Workflow from Another Workflow in GitHub Actions](https://medium.com/@irfankaraman/how-to-trigger-a-workflow-from-another-workflow-in-github-actions-1d2ebc1343ff?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
