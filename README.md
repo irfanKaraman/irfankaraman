@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [05 - Tech Talks | ManageEngine Series  - Vulnerability Manager Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=jl3CfE7V238)
+- [04 - Tech Talks | ManageEngine Series  - Device Control Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=3JyOb_-JyzQ)
+- [02 - Tech Talks | DevOps Series - Linux Bash/Shell Kişiselleştirme &lpar;ZSH, Oh-my-Zsh, Starship, Fzf&rpar;](https://www.youtube.com/watch?v=cRUQNe1IIVs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
