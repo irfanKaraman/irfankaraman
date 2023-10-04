@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tech Talks | Channel Intro #ai #sadtalker #talkingavatar](https://www.youtube.com/watch?v=NbcDTPIss50)
-- [06 - Tech Talks | ManageEngine Series - Endpoint Central İnceleme &amp; Demo](https://www.youtube.com/watch?v=neGaqyHw0Tc)
-- [05 - Tech Talks | ManageEngine Series  - Vulnerability Manager Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=jl3CfE7V238)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -79,10 +76,6 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Zorlu Makroekonomik Koşullarda BT Bütçeleme](https://medium.com/@irfankaraman/zorlu-makroekonomik-ko%C5%9Fullarda-bt-b%C3%BCt%C3%A7eleme-d0405b1ce659?source=rss-b27fdb1a7b71------2)
-- [Uygulama Bilinçli Ağ Performans Yönetimi](https://medium.com/@irfankaraman/uygulama-bilin%C3%A7li-a%C4%9F-performans-y%C3%B6netimi-e0f4b530014d?source=rss-b27fdb1a7b71------2)
-- [How to Add Workflow Status Badge](https://medium.com/@irfankaraman/how-to-add-workflow-status-badge-94f4d444bb33?source=rss-b27fdb1a7b71------2)
-- [What is the Scrum Framework?](https://medium.com/@irfankaraman/what-is-the-scrum-framework-dde87d4c1e7f?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
@@ -104,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Wednesday, October 4, 6:10 AM GMT+3
+Last refresh: Wednesday, October 4, 9:13 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 16°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 18°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>07:03</b> and sets at <b>18:42</b>.
 </br>
