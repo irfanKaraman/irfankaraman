@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Tech Talks | Channel Intro #ai #sadtalker #talkingavatar](https://www.youtube.com/watch?v=NbcDTPIss50)
+- [06 - Tech Talks | ManageEngine Series - Endpoint Central İnceleme &amp; Demo](https://www.youtube.com/watch?v=neGaqyHw0Tc)
+- [05 - Tech Talks | ManageEngine Series  - Vulnerability Manager Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=jl3CfE7V238)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
