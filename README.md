@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Tech Talks | Channel Intro #ai #sadtalker #talkingavatar](https://www.youtube.com/watch?v=NbcDTPIss50)
-- [06 - Tech Talks | ManageEngine Series - Endpoint Central İnceleme &amp; Demo](https://www.youtube.com/watch?v=neGaqyHw0Tc)
-- [05 - Tech Talks | ManageEngine Series  - Vulnerability Manager Plus İnceleme &amp; Demo](https://www.youtube.com/watch?v=jl3CfE7V238)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -79,10 +76,6 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ManageEngine Secure Gateway Server](https://medium.com/@irfankaraman/manageengine-secure-gateway-server-07d764fe7b3b?source=rss-b27fdb1a7b71------2)
-- [Zorlu Makroekonomik Koşullarda BT Bütçeleme](https://medium.com/@irfankaraman/zorlu-makroekonomik-ko%C5%9Fullarda-bt-b%C3%BCt%C3%A7eleme-d0405b1ce659?source=rss-b27fdb1a7b71------2)
-- [Uygulama Bilinçli Ağ Performans Yönetimi](https://medium.com/@irfankaraman/uygulama-bilin%C3%A7li-a%C4%9F-performans-y%C3%B6netimi-e0f4b530014d?source=rss-b27fdb1a7b71------2)
-- [How to Add Workflow Status Badge](https://medium.com/@irfankaraman/how-to-add-workflow-status-badge-94f4d444bb33?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
@@ -104,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Friday, October 6, 6:11 PM GMT+3
+Last refresh: Friday, October 6, 9:13 PM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 23°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 20°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>07:05</b> and sets at <b>18:39</b>.
 </br>
