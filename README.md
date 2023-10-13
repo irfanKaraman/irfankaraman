@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [07 - Tech Talks | ManageEngine Series - Secure Gateway Server Detaylı İnceleme](https://www.youtube.com/watch?v=8wfSNbyh-wA)
+- [Tech Talks | Channel Intro #ai #sadtalker #talkingavatar](https://www.youtube.com/watch?v=NbcDTPIss50)
+- [06 - Tech Talks | ManageEngine Series - Endpoint Central İnceleme &amp; Demo](https://www.youtube.com/watch?v=neGaqyHw0Tc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
