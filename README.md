@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [08 - Tech Talks | ManageEngine Series - OpUtils İnceleme &amp; Demo](https://www.youtube.com/watch?v=JDdknVHv24s)
-- [07 - Tech Talks | ManageEngine Series - Secure Gateway Server Detaylı İnceleme](https://www.youtube.com/watch?v=8wfSNbyh-wA)
-- [Tech Talks | Channel Intro #ai #sadtalker #talkingavatar](https://www.youtube.com/watch?v=NbcDTPIss50)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -100,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Friday, October 20, 12:10 PM GMT+3
+Last refresh: Friday, October 20, 3:19 PM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 20°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 22°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>07:20</b> and sets at <b>18:17</b>.
 </br>
