@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [09 - Tech Talks | ManageEngine Series - Firewall Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=6LX4GKfBX4M)
+- [08 - Tech Talks | ManageEngine Series - OpUtils İnceleme &amp; Demo](https://www.youtube.com/watch?v=JDdknVHv24s)
+- [07 - Tech Talks | ManageEngine Series - Secure Gateway Server Detaylı İnceleme](https://www.youtube.com/watch?v=8wfSNbyh-wA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
