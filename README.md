@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [07 - Tech Talks | ManageEngine Series - Secure Gateway Server Detaylı İnceleme](https://www.youtube.com/watch?v=ZMUdercL7SE)
+- [11 - Tech Talks | ManageEngine Series - NetFlow Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=f4vxnzslaKE)
+- [10 - Tech Talks | ManageEngine Series - Network Configuration Manager İnceleme &amp; Demo](https://www.youtube.com/watch?v=NQzUpNErm8s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
