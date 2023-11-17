@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [11 - Tech Talks | ManageEngine Series - NetFlow Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=f4vxnzslaKE)
+- [10 - Tech Talks | ManageEngine Series - Network Configuration Manager İnceleme &amp; Demo](https://www.youtube.com/watch?v=NQzUpNErm8s)
+- [09 - Tech Talks | ManageEngine Series - Firewall Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=6LX4GKfBX4M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
