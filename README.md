@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [OpManager Dashboard &amp; NOC Views &lpar;w/AppManager Monitor Groups&rpar;](https://www.youtube.com/watch?v=g79WxJm8b2w)
+- [12 - Tech Talks | ManageEngine Series - Applications Manager İnceleme &amp; Demo](https://www.youtube.com/watch?v=qNl_D7hZdvA)
+- [11 - Tech Talks | ManageEngine Series - NetFlow Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=f4vxnzslaKE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
