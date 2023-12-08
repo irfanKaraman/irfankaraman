@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [13 - Tech Talks | ManageEngine Series - Cloud Çözümleri](https://www.youtube.com/watch?v=S1RDuUWEBN8)
-- [ManageEngine - How To | OpManager Dashboard &amp; NOC Views &lpar;w/AppManager Monitor Groups&rpar;](https://www.youtube.com/watch?v=g79WxJm8b2w)
-- [12 - Tech Talks | ManageEngine Series - Applications Manager İnceleme &amp; Demo](https://www.youtube.com/watch?v=qNl_D7hZdvA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -100,7 +97,7 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Friday, December 8, 9:13 PM GMT+3
+Last refresh: Saturday, December 9, 12:09 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
