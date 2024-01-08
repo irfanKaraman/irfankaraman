@@ -1,6 +1,6 @@
 <h1 align="center">İrfan KARAMAN
 
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Senior+ITOM+&UEMS+Solution+Specialist;Digital+Solutions+Development;IT+Operation+Management" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Senior+ITOM+-UEMS+Solution+Specialist;Digital+Solutions+Development;IT+Operation+Management" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
