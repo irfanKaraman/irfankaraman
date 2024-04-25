@@ -97,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Thursday, April 25, 4:31 AM GMT+3
+Last refresh: Thursday, April 25, 6:39 AM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 15°C, <i>clear sky</i></b>
+Today, Istanbul's weather is: <b> 14°C, <i>clear sky</i></b>
 </br>
 Sun rises at <b>06:09</b> and sets at <b>19:53</b>.
 </br>
