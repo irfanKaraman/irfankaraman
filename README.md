@@ -69,6 +69,9 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Network Path Analysis | ManageEngine OpManager](https://www.youtube.com/watch?v=Ch2lpzm22-A)
+- [13 - Tech Talks | ManageEngine Series - Cloud Çözümleri](https://www.youtube.com/watch?v=S1RDuUWEBN8)
+- [ManageEngine - How To | OpManager Dashboard &amp; NOC Views &lpar;w/AppManager Monitor Groups&rpar;](https://www.youtube.com/watch?v=g79WxJm8b2w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
