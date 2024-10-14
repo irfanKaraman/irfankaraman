@@ -76,6 +76,10 @@
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ManageEngine Secure Gateway Server](https://medium.com/@irfankaraman/manageengine-secure-gateway-server-07d764fe7b3b?source=rss-b27fdb1a7b71------2)
+- [Zorlu Makroekonomik Koşullarda BT Bütçeleme](https://medium.com/@irfankaraman/zorlu-makroekonomik-ko%C5%9Fullarda-bt-b%C3%BCt%C3%A7eleme-d0405b1ce659?source=rss-b27fdb1a7b71------2)
+- [Uygulama Bilinçli Ağ Performans Yönetimi](https://medium.com/@irfankaraman/uygulama-bilin%C3%A7li-a%C4%9F-performans-y%C3%B6netimi-e0f4b530014d?source=rss-b27fdb1a7b71------2)
+- [How to Add Workflow Status Badge](https://medium.com/@irfankaraman/how-to-add-workflow-status-badge-94f4d444bb33?source=rss-b27fdb1a7b71------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@irfankaraman)
