@@ -69,9 +69,6 @@
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Network Path Analysis | ManageEngine OpManager](https://www.youtube.com/watch?v=Ch2lpzm22-A)
-- [13 - Tech Talks | ManageEngine Series - Cloud Çözümleri](https://www.youtube.com/watch?v=S1RDuUWEBN8)
-- [ManageEngine - How To | OpManager Dashboard &amp; NOC Views &lpar;w/AppManager Monitor Groups&rpar;](https://www.youtube.com/watch?v=g79WxJm8b2w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
@@ -100,13 +97,13 @@
 <p align="center">
 This <i>README</i> file is generated <b>every 3 hours</b> with using triggered workflow Actions  
 </br>
-Last refresh: Sunday, January 26, 6:12 PM GMT+3
+Last refresh: Sunday, January 26, 9:16 PM GMT+3
 <br />
 <img src="https://img.shields.io/badge/Javascript-%23172BF4.svg?style=flat&logo=javascript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Mustache-232F3E.svg?style=flat&logo=mustache&logoColor=white)" /> 
 <br />
 <br />
-Today, Istanbul's weather is: <b> 8°C, <i>scattered clouds</i></b>
+Today, Istanbul's weather is: <b> 6°C, <i>few clouds</i></b>
 </br>
 Sun rises at <b>08:20</b> and sets at <b>18:12</b>.
 </br>
