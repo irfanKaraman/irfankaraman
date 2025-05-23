@@ -5,6 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
 </br>
+
 <!---
 <table align="right">
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
@@ -16,6 +17,7 @@
 
 - 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
 -->
+
 - 📝 My articles on [medium](https://medium.com/@irfankaraman/)
  
 - 🚴 I am actively involved in sports. Check out my [portfolio](https://www.flickr.com/photos/irfankaraman/albums)
