@@ -1,6 +1,6 @@
 <h1 align="center">İrfan KARAMAN
 
-<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Deputy+ITOM|UEMS+Team+Lead;Digital+Solutions+Development;IT+Operation+Management" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Consultant" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=irfankaraman&label=Profile%20views&color=f57600&style=plastic" alt="irfankaraman" /> </p>
@@ -10,16 +10,16 @@
  <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
  <tr><td><a href="README_tr.md"><img src="images/tr-flag.png" height="13"> Turkish</a></td></tr>
 </table>
--->
+
 
 - 🔭 I’m currently work for [Vitel A.S.](https://www.vitel.com.tr/en/)
 
 - 👨‍💻 Running pre-sales, post-sales and training operation on **ZOHO-ManageEngine Softwares**
-
-- 📝 My articles on [medium](https://medium.com/@irfankaraman/)
-<!-- 
-- 🚴 I am actively involved in sports. Check out my [portfolio](https://www.flickr.com/photos/irfankaraman/albums)
 -->
+- 📝 My articles on [medium](https://medium.com/@irfankaraman/)
+ 
+- 🚴 I am actively involved in sports. Check out my [portfolio](https://www.flickr.com/photos/irfankaraman/albums)
+
 <!-- 
 - 📚 Always learning! Currently learning **DevOps & Automation with AWS & Azure**
 - :mailbox: Kindly reach out to me on [![Linkedin Badge](https://img.shields.io/badge/-irfan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-karaman/)
