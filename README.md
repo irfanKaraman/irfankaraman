@@ -73,10 +73,10 @@
 <!-- YOUTUBE:START -->
 - [13 - Tech Talks | ManageEngine Series - Cloud Çözümleri](https://www.youtube.com/watch?v=S1RDuUWEBN8)
 - [ManageEngine - How To | OpManager Dashboard &amp; NOC Views &lpar;w/AppManager Monitor Groups&rpar;](https://www.youtube.com/watch?v=g79WxJm8b2w)
-- [12 - Tech Talks | ManageEngine Series - Applications Manager İnceleme &amp; Demo](https://www.youtube.com/watch?v=qNl_D7hZdvA)
 - [11 - Tech Talks | ManageEngine Series - NetFlow Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=f4vxnzslaKE)
 - [10 - Tech Talks | ManageEngine Series - Network Configuration Manager İnceleme &amp; Demo](https://www.youtube.com/watch?v=NQzUpNErm8s)
 - [09 - Tech Talks | ManageEngine Series - Firewall Analyzer İnceleme &amp; Demo](https://www.youtube.com/watch?v=6LX4GKfBX4M)
+- [08 - Tech Talks | ManageEngine Series - OpUtils İnceleme &amp; Demo](https://www.youtube.com/watch?v=JDdknVHv24s)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/@irfan.karaman)
